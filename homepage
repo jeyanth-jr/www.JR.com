@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+    <head style="background-color:black;">
+    <div tag="top"></div>  
+        <title>JR BLOGS</title>
+        <h1 style="color:blue ;">Welcome to my site!!!!</h1>
+        <hr>
+    </head>
+    <br></br>
+    <body style="font-size:larger; background-color: bisque; ">
+      <h2>About me</h2>
+      <p>Basically I'm a 18 year old Indian, Waiting for higher secondary result... so just thought why not learn web design</p>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <a href="#top"><img src="C:\Users\raman\OneDrive\Documents\programming\back-to-top-icon-png-0.jpg" width="30px" height="30px">back to top</a>
+      <hr>
+      <h3>contact me</h3>
+      <a href="https://www.instagram.com/jeyanth__jr/" target="_blank"><img src="C:\Users\raman\OneDrive\Documents\programming\580b57fcd9996e24bc43c521.png" width="30px" height="30px"></a>
+      <a href="https://twitter.com/Jeyanth82902459" target="_blank"><img src="C:\Users\raman\OneDrive\Documents\programming\580b57fcd9996e24bc43c53e.png" width="30px" height="30px"></a>
+      <a href="https://github.com/jeyanth-jr" target="_blank"><img src="C:\Users\raman\OneDrive\Documents\programming\25231.png" width="30px" height="30px"></a>
+      <a href="https://www.youtube.com/channel/UCot6Mup43emMWBRcHjHr25g" target="_blank"><img src="C:\Users\raman\OneDrive\Documents\programming\197b365922d1ea3aa1a932ff9bbda4a6.png" width="45px" height="30px"></a> 
+      <hr>
+    </body>    
+</html> 
